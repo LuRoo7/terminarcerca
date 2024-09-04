@@ -1,0 +1,66 @@
+.kk{
+    position: relative;
+    left: 580px;
+    top: 280px;
+}
+.hh{
+    border: 1px black solid;
+    height: 100px;
+    width: 100px;
+}
+.cnt1{
+    border: 1px black solid;
+    height: 200px;
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.ññ{
+    display: flex;
+    position: relative;
+    top: 40px;
+    left: 350px;
+}
+.formulario{
+    position:relative;
+    top: 400px;
+}
+
+.titulo1{
+    border: 1px black solid;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    left: 400px;
+}
+.po{
+    position: relative;
+    text-align: center;
+}
+.formulario1{
+    position: relative;
+    top: 20px;
+}
+.ññ{
+    position: relative;
+    margin-left: 100px;
+
+}
+.cnt2{
+    position: relative;
+    left: 40px;
+}
+.cnt3{
+    position: relative;
+    left: 60px;
+}
+.cnt9{
+    border: 1px black solid;
+    display: flex;
+    height: 300px;
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
